@@ -4,8 +4,8 @@ import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 
-const name = 'Music Library'
-export const siteTitle = 'Next.js Sample Website'
+const name = 'Project Home Bar'
+export const siteTitle = 'Project Home Bar'
 
 export default function Layout({ children, home }) {
     return (

@@ -23,3 +23,14 @@ img {
     max-width: 100%;
     display: block;
 }
+table, th, tr, td {
+    width: 100%;
+    border:1px solid black;
+}
+
+ul.a{
+    list-style-type: circle;
+}
+ul.b{
+    list-style-type: square;
+}
